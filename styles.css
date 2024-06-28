@@ -1,6 +1,6 @@
 @font-face {
     font-family: serious;
-    src: url('ButterflyKids-Regular.ttf');
+    src: url(./ButterflyKids-Regular.woff);
   }
 body {
     display: flex;
